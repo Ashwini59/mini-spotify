@@ -1,2 +1,5 @@
 # mini-spotify
-<lets play music
+musical world
+lets play music
+
+ 
